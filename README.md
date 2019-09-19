@@ -1,5 +1,5 @@
 # multi-gradle
 
-### on cpeters1
+### on staging
 
-![depshield](https://cpeters1.dev.depshield.sonatype.org/badges/eduard-tita/multi-gradle/depshield.svg)
+![depshield](https://staging.depshield.sonatype.org/badges/eduard-tita/multi-gradle/depshield.svg)
